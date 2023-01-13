@@ -1,0 +1,135 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/1c/2a/e8/1c2ae84b21fa0a3e084f9f4f78b5e05e.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.saludo{
+    text-align: center;
+    font-size: 30px;
+    font-family: Acme;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: Vollkorn SC;
+}
+.encriptador{
+    font-size: 22px;
+    background-image: url(https://nitter.net/pic/media%2FFPEgL8wakAMmlxh.jpg%3Fname%3Dsmall);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:local;
+    
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 75px;
+    padding: auto;
+    padding-top: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+    width: 1000px;
+    height: 270px;
+}
+.encriptar{
+    font-family: Turret Road;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.contraseña{
+    font-family: Turret Road;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.encriptado{
+    font-family: Turret Road;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.mensaje{
+    width: 250px;
+    height: 25px;
+    background-image: url(https://i.pinimg.com/originals/fd/63/4e/fd634e9eb3bc80f764af3597473c127a.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: local;
+    color: rgb(0, 0, 0);
+    border: 2px solid black; 
+    border-radius: 2px;
+    font-size: 20px;
+}
+.button-desencriptar{
+    border: 2px;
+    background-image: url(https://i.pinimg.com/236x/ff/c6/4e/ffc64e96633787b94dcb7bcc92375335.jpg);
+    width: 40px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+}
+.button-copiar{
+    border: 2px;
+    background-image: url(https://i.pinimg.com/236x/ff/c6/4e/ffc64e96633787b94dcb7bcc92375335.jpg);
+    width: 40px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+}
+button{
+    border: 2px ;
+    background-image: url(https://i.pinimg.com/236x/ff/c6/4e/ffc64e96633787b94dcb7bcc92375335.jpg);
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+    margin-top: 10px;
+}
+.creditos{
+    font-size: 20px;
+    color: rgb(1, 1, 2);
+    font-family: Bayon;
+    background-color: bisque;
+}

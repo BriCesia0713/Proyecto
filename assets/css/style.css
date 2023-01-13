@@ -1,0 +1,110 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/71/e0/ef/71e0effe6eb335604394c2c0e69327a1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: Vollkorn SC;
+}
+.inicio{
+    border: 2px;
+    background-image: url(https://i.pinimg.com/originals/5a/42/1f/5a421f335d546c641c4b1daa27056bba.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:local;
+
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 75px;
+    padding: auto;
+    padding-top: 90px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+    width: 1000px;
+    height: 250px;
+}
+.nombre-usuario{
+    font-family: Turret Road;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.usuario{
+    width: 250px;
+    height: 25px;
+    background-image: url(https://i.pinimg.com/236x/5a/2d/fb/5a2dfbc116000b2642409f67de5a5969.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: local;
+    color: rgb(0, 0, 0);
+    border: 2px solid black; 
+    border-radius: 2px;
+    font-size: 20px;
+}
+.contraseña{
+    font-family: Turret Road;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.mensaje{
+    width: 250px;
+    height: 25px;
+    background-image: url(https://i.pinimg.com/236x/5a/2d/fb/5a2dfbc116000b2642409f67de5a5969.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: local;
+    color: rgb(0, 0, 0);
+    border: 2px solid black; 
+    border-radius: 2px;
+    font-size: 20px;
+}
+.button-siguiente{
+    border: 2px;
+    background-image: url(https://i.pinimg.com/736x/2b/18/2a/2b182ad53095446073765dd0f9e018f8.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: local;
+    width: 40px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+}
+.creditos{
+    font-size: 20px;
+    color: rgb(56, 13, 5);
+    font-family: Bayon;
+    background-color: antiquewhite ;
+}

@@ -1,0 +1,118 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/02/cb/4c/02cb4c4f82a565e58772a8f4efd30928.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:inherit;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    font-family: Vollkorn SC;
+}
+.desencriptar{
+    font-size: 22px;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210902/pngtree-world-ocean-day-whale-ocean-fantasy-ocean-day-poster-background-image_788970.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:inherit;
+    
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 200px;
+    margin-bottom: 75px;
+    padding: auto;
+    padding-top: 90px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 70px;
+    border-radius: 10px;
+    width: 1000px;
+    height: 250px;
+}
+.mensaje{
+    width: 250px;
+    height: 25px;
+    background-image: url(https://i.pinimg.com/videos/thumbnails/originals/43/55/60/4355609e2c15eab6e4389c02cc652cee.0000000.jpg);
+    background-position:initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+    color: black;
+    border: 2px solid black; 
+    border-radius: 2px;
+    font-size: 20px;
+}
+.button-regresar{
+    border: 2px ;
+    width: 40px;
+    border-radius: 15px;
+    text-decoration: none;
+    background-image: url(https://i.pinimg.com/originals/50/b9/e3/50b9e356c080a118c130aaef0a6cddc8.jpg);
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+}
+.button-encriptar{
+    border: 2px ;
+    width: 40px;
+    border-radius: 15px;
+    text-decoration: none;
+    background-image: url(https://i.pinimg.com/originals/50/b9/e3/50b9e356c080a118c130aaef0a6cddc8.jpg);
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+}
+button{
+    border: 2px ;
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    text-decoration: none;
+    background-image: url(https://i.pinimg.com/originals/50/b9/e3/50b9e356c080a118c130aaef0a6cddc8.jpg);
+    color: black;
+    font-size: 1rem;
+    padding: 10px;
+    margin-top: 10px;
+}
+.codigo{
+    font-family: Turret Road;
+    max-height:min-content;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 25px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.msgr{
+    font-family: Turret Road;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+    padding: auto;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+.creditos{
+    font-size: 20px;
+    color: rgb(5, 6, 63);
+    font-family: Bayon;
+    background-color: antiquewhite;
+    width: 1000px;
+    height: 10%;
+}
